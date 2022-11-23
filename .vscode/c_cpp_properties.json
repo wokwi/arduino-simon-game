@@ -1,0 +1,56 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/p/arduino-simon-game/include",
+                "C:/p/arduino-simon-game/src",
+                "C:/Users/Uri/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/Uri/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/p/arduino-simon-game/include",
+                    "C:/p/arduino-simon-game/src",
+                    "C:/Users/Uri/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/Uri/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/Uri/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60105",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/Uri/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
