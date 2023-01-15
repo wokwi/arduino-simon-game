@@ -6,6 +6,8 @@ It's based on the online version at https://wokwi.com/projects/32845180083948808
 
 ## Build the project
 
+This is a [PlatformIO](https://platformio.org) project. To build it, [install PlatformIO](https://docs.platformio.org/en/latest/core/installation/index.html), and then run the following command:
+
 ```
 pio run
 ```
